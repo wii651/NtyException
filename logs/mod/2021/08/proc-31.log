@@ -1,0 +1,17 @@
+[Aug 31 2021 10:36:58]--[quick_start.cpp:11:main()]:
+	Some log info
+
+[Aug 31 2021 10:37:14]--[quick_start.cpp:11:main()]:
+	Some log info
+[stack_info]:
+	./a.out(+0x1e93) [0x560661e8ce93]
+	/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7fb1a171fbf7]
+	./a.out(+0x1d5a) [0x560661e8cd5a]
+
+[Aug 31 2021 10:46:36]--[quick_start.cpp:28:main()]:
+	Some log info
+[stack_info]:
+	./a.out(+0x1e43) [0x562597edbe43]
+	/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7fad88fbdbf7]
+	./a.out(+0x1d0a) [0x562597edbd0a]
+
